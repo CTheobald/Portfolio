@@ -38,11 +38,11 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    title: 'Math Flashcard App',
+    info: 'Practice your math with addition, subtraction, mulitplication and division flash cards.',
+    info2: 'Python, Django, Heroku',
+    url: 'https://ctflashcardapp.herokuapp.com/',
+    repo: 'https://github.com/CTheobald/django_flashcards', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
