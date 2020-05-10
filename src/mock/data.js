@@ -39,8 +39,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'project.jpg',
     title: 'Math Flashcard App',
-    info: 'Practice your math with addition, subtraction, mulitplication and division flash cards.',
-    info2: 'Python, Django, Heroku',
+    info: 'Addition, Subtraction, Multiplication, and Division Flashcard web app.',
+    info2: 'Built with Python and Django. Deployed with Heroku.',
     url: 'https://ctflashcardapp.herokuapp.com/',
     repo: 'https://github.com/CTheobald/django_flashcards', // if no repo, the button will not show up
   },
