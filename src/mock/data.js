@@ -18,9 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpeg',
-  paragraphOne: 'Innovative Developer',
-  paragraphTwo: 'Java, JavaScript, React, Python, Django',
-  paragraphThree: 'Forward thinking. Security Minded. Team Player.',
+  paragraphOne: 'Full Stack Developer',
+  paragraphTwo: 'Building Interactive Web Apps',
+  paragraphThree:
+    'Skilled in Front End and Back End development.  Experience with Java, Javascript, React, Python, Django',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -29,11 +30,11 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    title: 'RoboFriends',
+    info: 'React App built with Create-React-App',
+    info2: 'Uses Search Tool to filter Robots by Name.',
+    url: 'https://ctheobald.github.io/RoboFriends/',
+    repo: 'https://github.com/CTheobald/RoboFriends', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
